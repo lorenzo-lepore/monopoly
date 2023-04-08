@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.monopoly"},{"l":"com.monopoly.app"},{"l":"com.monopoly.gui.frames"},{"l":"com.monopoly.gui.panels"}];updateSearchResults();
