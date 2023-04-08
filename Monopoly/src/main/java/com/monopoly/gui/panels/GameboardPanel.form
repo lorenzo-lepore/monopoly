@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <Properties>
+    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="cc" green="ff" red="cc" type="rgb"/>
+    </Property>
+    <Property name="enabled" type="boolean" value="false"/>
+  </Properties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="parcheggioButton" min="-2" pref="135" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="viaMarcoPoloButton" min="-2" pref="135" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="corsoMagellanoButton" min="-2" pref="135" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="largoColomboButton" min="-2" pref="135" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="stazioneNordButton" min="-2" pref="135" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="vialeCostantinoButton" min="-2" pref="135" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="vialeTraianoButton" min="-2" pref="135" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="piazzaGiulioCesareButton" min="-2" pref="135" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="viaAccademiaButton" alignment="0" min="-2" pref="135" max="-2" attributes="0"/>
+                                  <Component id="viaVerdiButton" alignment="0" min="-2" pref="135" max="-2" attributes="0"/>
+                                  <Component id="stazioneOvestButton" alignment="0" min="-2" pref="135" max="-2" attributes="0"/>
+                                  <Component id="piazzaUniversitaButton" alignment="0" min="-2" pref="135" max="-2" attributes="0"/>
+                                  <Component id="corsoAteneoButton" alignment="0" min="-2" pref="135" max="-2" attributes="0"/>
+                                  <Component id="piazzaDanteButton" alignment="0" min="-2" pref="135" max="-2" attributes="0"/>
+                                  <Component id="corsoRaffaelloButton" alignment="0" min="-2" pref="135" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jPanel1" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="parcoDellaVittoriaButton" alignment="0" min="-2" pref="135" max="-2" attributes="0"/>
+                          <Component id="societaElettricaButton" min="-2" pref="135" max="-2" attributes="0"/>
+                          <Component id="vialeDeiGiardiniButton" min="-2" pref="135" max="-2" attributes="0"/>
+                          <Component id="stazioneEstButton" alignment="0" min="-2" pref="135" max="-2" attributes="0"/>
+                          <Component id="largoAugustoButton" alignment="0" min="-2" pref="135" max="-2" attributes="0"/>
+                          <Component id="corsoImperoButton" alignment="0" min="-2" pref="135" max="-2" attributes="0"/>
+                          <Component id="viaRomaButton" alignment="0" min="-2" pref="135" max="-2" attributes="0"/>
+                          <Component id="inPrigioneButton" alignment="0" min="-2" pref="135" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="prigioneButton" min="-2" pref="135" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="vialeVesuvioButton" min="-2" pref="135" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="vialeMonterosaButton" min="-2" pref="135" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="bastioniGranSassoButton" min="-2" pref="135" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="stazioneSudButton" min="-2" pref="135" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="societaAcquaPotabileButton" min="-2" pref="135" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="vicoloStrettoButton" min="-2" pref="135" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="vicoloCortoButton" min="-2" pref="135" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="viaButton" min="-2" pref="135" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jScrollPane1" min="-2" pref="499" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="vaiInPrigioneButton" min="-2" pref="370" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="terminaTurnoButton" min="-2" pref="370" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="pagaTassaButton" min="-2" pref="370" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="passaDalViaButton" min="-2" pref="370" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="acquistaContrattoButton" min="-2" pref="370" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="pagaAffittoButton" min="-2" pref="370" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="parcheggioButton" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
+                  <Component id="viaMarcoPoloButton" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
+                  <Component id="corsoMagellanoButton" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
+                  <Component id="largoColomboButton" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
+                  <Component id="stazioneNordButton" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
+                  <Component id="vialeCostantinoButton" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
+                  <Component id="vialeTraianoButton" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
+                  <Component id="piazzaGiulioCesareButton" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
+                  <Component id="inPrigioneButton" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="piazzaDanteButton" min="-2" pref="50" max="-2" attributes="0"/>
+                          <Component id="viaRomaButton" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="corsoRaffaelloButton" min="-2" pref="50" max="-2" attributes="0"/>
+                          <Component id="corsoImperoButton" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="viaVerdiButton" min="-2" pref="50" max="-2" attributes="0"/>
+                          <Component id="largoAugustoButton" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="stazioneOvestButton" min="-2" pref="50" max="-2" attributes="0"/>
+                          <Component id="stazioneEstButton" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="piazzaUniversitaButton" min="-2" pref="50" max="-2" attributes="0"/>
+                          <Component id="societaElettricaButton" alignment="1" min="-2" pref="50" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="corsoAteneoButton" min="-2" pref="50" max="-2" attributes="0"/>
+                          <Component id="vialeDeiGiardiniButton" alignment="1" min="-2" pref="50" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="viaAccademiaButton" min="-2" pref="50" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Component id="parcoDellaVittoriaButton" min="-2" pref="50" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Component id="jPanel1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="prigioneButton" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
+                  <Component id="vialeVesuvioButton" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
+                  <Component id="vialeMonterosaButton" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
+                  <Component id="bastioniGranSassoButton" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
+                  <Component id="stazioneSudButton" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
+                  <Component id="societaAcquaPotabileButton" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
+                  <Component id="vicoloStrettoButton" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
+                  <Component id="vicoloCortoButton" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
+                  <Component id="viaButton" alignment="3" min="-2" pref="50" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="acquistaContrattoButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="pagaAffittoButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="pagaTassaButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="passaDalViaButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="vaiInPrigioneButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="terminaTurnoButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Component id="jScrollPane1" pref="0" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="parcheggioButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Parcheggio"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="piazzaDanteButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Piazza Dante"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="corsoRaffaelloButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Corso Raffaello"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="viaVerdiButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Via Verdi"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="stazioneOvestButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Stazione Ovest"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="piazzaUniversitaButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Piazza Universit&#xe0;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="corsoAteneoButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Corso Ateneo"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="viaAccademiaButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Via Accademia"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="prigioneButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Prigione"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="viaMarcoPoloButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Via Marco Polo"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="vialeVesuvioButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Viale Vesuvio"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="vialeMonterosaButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Viale Monterosa"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="bastioniGranSassoButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Bastioni G. Sasso"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="corsoMagellanoButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Corso Magellano"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="largoColomboButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Largo Colombo"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="stazioneNordButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Stazione Nord"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="stazioneSudButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Stazione Sud"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="societaAcquaPotabileButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Societ&#xe0; acqua pot."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="vicoloStrettoButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Vicolo Stretto"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="vicoloCortoButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Vicolo Corto"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="viaButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;-- Via"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="vialeCostantinoButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Viale Costantino"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="vialeTraianoButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Viale Traiano"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="piazzaGiulioCesareButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Piazza G. Cesare"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="inPrigioneButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="In Prigione!"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="viaRomaButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Via Roma"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="corsoImperoButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Corso Impero"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="largoAugustoButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Largo Augusto"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="stazioneEstButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Stazione Est"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="societaElettricaButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Societ&#xe0; elettrica"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="vialeDeiGiardiniButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Viale dei Giardini"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="parcoDellaVittoriaButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Parco della Vittoria"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="ff" red="cc" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+            <TitledBorder/>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="lanciaDadiButton" max="32767" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="-2" pref="123" max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="timerLabel" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="111" max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" pref="160" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="lanciaDadiButton" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="timerLabel" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Verdana" size="48" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/icons/label.png"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="lanciaDadiButton">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Lancia dadi"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="timerLabel">
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <Properties>
+        <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+          <Color id="Default Cursor"/>
+        </Property>
+        <Property name="viewportView" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+          <ComponentRef name="null"/>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="infoTextArea">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="autoscrolls" type="boolean" value="false"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="acquistaContrattoButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Acquista contratto"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="pagaTassaButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Paga tassa"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="vaiInPrigioneButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Vai in prigione"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="pagaAffittoButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Paga affitto"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="passaDalViaButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Passa dal via"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="terminaTurnoButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Termina turno"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
