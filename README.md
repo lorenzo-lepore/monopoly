@@ -2,7 +2,7 @@
 
 <b>Looking for the English version? Click <a href="https://github.com/lorenzo-lepore/monopoly/blob/main/ALT_README.md">here.</a></b>
 
-Il Monopoly è un gioco da tavolo in cui i giocatori competono per accumulare la maggiore quantità di denaro e proprietà immobiliari. I giocatori avanzano attraverso le caselle del tabellone utilizzando dei dadi e, a seconda della casella su cui atterrano, possono acquistare proprietà, pagare affitti, costruire case e alberghi, pagare tasse e ricevere premi. Il gioco termina quando tutti i giocatori tranne uno si sono dichiarati bancarotta, e il giocatore rimasto in piedi vince il gioco.
+Monopoly è un gioco da tavolo in cui i giocatori competono per accumulare la maggiore quantità di denaro e proprietà immobiliari. I giocatori avanzano attraverso le caselle del tabellone utilizzando dei dadi e, a seconda della casella su cui atterrano, possono acquistare proprietà, pagare affitti, costruire case e alberghi, pagare tasse e ricevere premi. Il gioco termina quando tutti i giocatori tranne uno si sono dichiarati bancarotta, e il giocatore rimasto in piedi vince il gioco.
 
 In questa versione riadattata, scritta in linguaggio Java, il giocatore vincitore è colui che possiede più denaro allo scadere del quinto turno.
 
