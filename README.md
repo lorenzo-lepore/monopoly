@@ -14,7 +14,7 @@ In questa versione riadattata, scritta in linguaggio Java, il giocatore vincitor
 
 Nella schermata principale è possibile iniziare o riprendere una partita. 
 
-Nel primo caso, prima di cliccare su 'Nuova partita' bisogna soddisfare la condizione principale per garantire il gioco: un numero di giocatori pari o superiore a 2 (fino a 6 giocatori consentiti). Questi possono essere aggiunti attraverso il pulsante 'Aggiungi giocatore' nel quale questi potranno inserire il proprio nickname e una pedina a scelta tra le disponibili. È possibile mostrare i giocatori attraverso il bottone 'Mostra giocatori'.
+Nel primo caso, prima di cliccare su 'Nuova partita' bisogna soddisfare la condizione principale per garantire il gioco: un numero di giocatori pari o superiore a 2 (fino a 6 giocatori consentiti). Questi possono essere aggiunti attraverso il pulsante 'Aggiungi giocatore' nel quale si potrà inserire il proprio nickname e una pedina a scelta tra le disponibili. È possibile mostrare i giocatori attraverso il bottone 'Mostra giocatori'.
 
 Nel secondo caso, al cliccare su 'Riprendi partita' il programma verificherà la presenza di partite precendentemente salvate (non concluse) nel sistema e procederà ad aprire il tabellone di gioco riprendendo esattamente dal turno dell'ultimo giocatore giocante.
 
