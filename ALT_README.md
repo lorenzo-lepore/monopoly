@@ -1,7 +1,7 @@
 # Monopoly
 
 Monopoly is a board game in which players compete to accumulate the most money and real estate. 
-Players advance through the squares of the board using dice and depending on which square they land on, they can buy property, pay rent, 
+Players advance through the squares of the board using dices and depending on which square they land on, they can buy property, pay rent, 
 build houses and hotels, pay taxes and receive prizes. The game ends when all but one player has declared bankruptcy, and the player left standing 
 wins the game.
 
@@ -15,9 +15,7 @@ In this adapted version, written in Java language, the winning player is the one
 
 On the main screen you can start or resume a game.
 
-In the first case, before clicking on 'New game', the main condition to guarantee the game must be satisfied: a number of players equal to or greater than 2 
-(up to 6 players allowed). These can be added using the 'Add player' button where they can enter their nickname and a pawn of their choice from among the available 
-ones. It is possible to show the players through the 'Show players' button.
+In the first case, before clicking on 'New game', the main condition to guarantee the start of the game must be satisfied: a number of players equal to or greater than 2 (up to 6 players allowed) have to play. These can be added using the 'Add player' button, where it is possible to choose a nickname and a pawn among the available ones. It is possible to show the players through the 'Show players' button.
 
 In the second case, by clicking on 'Resume game' the program will check for the presence of previously saved (unfinished) games in the system and will proceed to 
 open the game board by restarting exactly from the last player's turn.
@@ -28,13 +26,13 @@ open the game board by restarting exactly from the last player's turn.
 </figure>
 <br><br>
 
-The game takes place on the game board; in this, according to a randomly generated turn order at the beginning of the game, each player will be able to perform actions, including:
+The game takes place on the game board; in this, according to a randomly generated (at the beginning of the game) turn order, each player will be able to perform various actions, including:
 <ul>
-   <li>Viewing your statistics</li>
-   <li>Roll of the dice (mandatory to end the turn)</li>
-   <li>Purchase an available contract of your choice</li>
-   <li>Paying rent on a given real estate property of an opposing player</li>
-   <li>Paying a Fee</li>
+   <li>Viewing statistics</li>
+   <li>Roll of the dices (mandatory to end the turn)</li>
+   <li>Purchase of an available contract</li>
+   <li>Paying of rent of a given real estate property of an opposing player</li>
+   <li>Paying of a fee</li>
    <li>Passage on the 'Go!'</li>
    <li>Movement to prison</li>
    <li>End of turn</li>
@@ -44,10 +42,9 @@ The square on which the player's pawn is located is highlighted in green. Each t
 
 <h2>Info</h2>
 
-Windowed Mode: you can play in a window by simply moving the Monopoly app around. The action is irreversible.
+Windowed Mode: you can play in a window by simply moving the Monopoly window. This action is irreversible.
 
-Documentation: you can view the Monopoly source code documentation in the 'JavaDoc' folder. The format of each file is HTML. In
-alternatively, consult the comments present in each class of the project.
+Documentation: you can view the Monopoly source code documentation in the 'JavaDoc' folder. The format of each file is HTML. Alternatively, feel free to consult the comments present in each class of the project.
 
 Execution: to execute Monopoly you need to execute the 'Monopoly.java' class present in /monopoly/src/main/java/com.monopoly. 
-To do this you need to have the Java Development Kit (JDK) or the Java Runtime Environment (JRE) installed on your system.
+To do this you need to have Java Development Kit (JDK) or Java Runtime Environment (JRE) installed on your system.
