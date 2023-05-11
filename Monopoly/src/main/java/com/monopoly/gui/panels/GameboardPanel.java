@@ -690,7 +690,7 @@ public class GameboardPanel extends javax.swing.JPanel{
         Thread t = new Thread(() -> {
             int i;
 
-            for (i = 5; i >= 0; i--) {
+            for (i = 180; i >= 0; i--) {
                 try {
                     timerLabel.setText("Secondi a disposizione prima della fine del turno: " + i);
                     Thread.sleep(1000);
