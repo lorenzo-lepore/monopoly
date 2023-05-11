@@ -23,6 +23,7 @@ Nel secondo caso, al cliccare su 'Riprendi partita' il programma verificherà la
 
 La partita si svolge nel tabellone di gioco; in questo, secondo un ordine dei turni generato casualmente all'inizio della partita, ogni giocatore avrà modo di compiere delle azioni, tra cui:
 <ul>
+  <li>Visualizzazione delle proprie statistiche</li>
   <li>Lancio dei dadi (obbligatorio per terminare il turno)</li>
   <li>Acquisto di un contratto disponibile a scelta</li>
   <li>Pagamento dell'affitto di una data proprietà immobiliare di un giocatore avversario</li>
@@ -32,11 +33,21 @@ La partita si svolge nel tabellone di gioco; in questo, secondo un ordine dei tu
   <li>Conclusione del turno</li>
 </ul>
 
-Le informazioni del giocatore attuale sono disponibili nella casella in fondo a sinistra del tabellone; la casella sulla quale è presente la pedina del giocatore è evidenziata in verde.
+La casella sulla quale è presente la pedina del giocatore è evidenziata in verde. Ogni turno ha la durata di 3 minuti; allo scadere del timer visibile a schermo i dadi verranno lanciati automaticamente, e verrà concluso il turno del giocatore attuale.<br>
 
-Ogni turno ha la durata di 3 minuti; allo scadere del timer visibile a schermo i dadi verranno lanciati automaticamente, e verrà concluso il turno del giocatore attuale.
+<h2>Info</h2>
 
-Modalità in finestra: è possibile giocare in finestra trascinando semplicemente la finestra di Monopoly. L'azione è irreversibile. 
+Modalità in finestra: è possibile giocare in finestra semplicemente spostando l'applicazione di Monopoly. L'azione è irreversibile.
+
+Documentazione: è possibile visualizzare la documentazione del codice sorgente di Monopoly nella cartella 'JavaDoc'. Il formato di ogni file è HTML. In 
+alternativa, consulatare i commenti presenti in ciascuna classe del progetto.
+
+Esecuzione: per eseguire Monopoly è necessario eseguire la classe 'Monopoly.java' presente in /monopoly/src/main/java/com.monopoly. Per fare ciò è necessario possedere il Java Development Kit (JDK) o il Java Runtime Environment (JRE) installato sul proprio sistema.
+
+
+
+
+
 
 
 
