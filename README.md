@@ -40,7 +40,7 @@ La casella sulla quale è presente la pedina del giocatore è evidenziata in ver
 
 <h2>Info</h2>
 
-Modalità in finestra: è possibile giocare in finestra semplicemente spostando l'applicazione di Monopoly. L'azione è irreversibile.
+Modalità in finestra: è possibile giocare in finestra semplicemente spostando l'applicazione di Monopoly. Questa azione è irreversibile.
 
 Documentazione: è possibile visualizzare la documentazione del codice sorgente di Monopoly nella cartella 'JavaDoc'. Il formato di ogni file è HTML. In 
 alternativa, consulatare i commenti presenti in ciascuna classe del progetto.
