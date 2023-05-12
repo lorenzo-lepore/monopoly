@@ -38,6 +38,21 @@ La partita si svolge nel tabellone di gioco; in questo, secondo un ordine dei tu
 
 La casella sulla quale è presente la pedina del giocatore è evidenziata in verde. Ogni turno ha la durata di 3 minuti; allo scadere del timer visibile a schermo i dadi verranno lanciati automaticamente, e verrà concluso il turno del giocatore attuale.<br>
 
+<figure>
+  <img src="https://github.com/lorenzo-lepore/monopoly/assets/91348041/0f72d06a-5870-4375-9a28-28f9c7ef1e30">
+  <figcaption><em>Schermata prigione</em></figcaption>
+</figure>
+<br><br>
+
+Nella schermata relativa alla prigione il giocatore ha a disposizione 3 scelte:
+<ul>
+  <li>Uscire gratis di prigione</li>
+  <li>Uscire di prigione pagando una penale (125$)</li>
+  <li>Rimanere in prigione</li>
+</ul>
+
+Durante questa fase non è presente alcun timer ed è richiesto che il giocatore compia una scelta.
+
 <h2>Info</h2>
 
 Modalità in finestra: è possibile giocare in finestra semplicemente spostando l'applicazione di Monopoly. Questa azione è irreversibile.
