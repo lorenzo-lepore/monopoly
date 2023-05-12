@@ -40,6 +40,21 @@ The game takes place on the game board; in this, according to a randomly generat
 
 The square on which the player's pawn is located is highlighted in green. Each turn lasts 3 minutes; when the timer visible on the screen expires, the dice will be rolled automatically, and the current player's turn will end.<br>
 
+<figures>
+   <img src="https://github.com/lorenzo-lepore/monopoly/assets/91348041/0f72d06a-5870-4375-9a28-28f9c7ef1e30">
+   <figcaption><em>Prison screen</em></figcaption>
+</figure>
+<br><br>
+
+On the prison screen, the player has 3 choices:
+<ul>
+   <li>Get out of jail for free</li>
+   <li>Get out of prison by paying a penalty ($125)</li>
+   <li>Stay in prison</li>
+</ul>
+
+There is no timer during this phase. The player is required to make a choice.
+
 <h2>Info</h2>
 
 Windowed Mode: you can play in a window by simply moving the Monopoly window. This action is irreversible.
