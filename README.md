@@ -57,9 +57,6 @@ Durante questa fase non è presente alcun timer ed è richiesto che il giocatore
 
 Modalità in finestra: è possibile giocare in finestra semplicemente spostando l'applicazione di Monopoly. Questa azione è irreversibile.
 
-Documentazione: è possibile visualizzare la documentazione del codice sorgente di Monopoly nella cartella 'JavaDoc'. Il formato di ogni file è HTML. In 
-alternativa, consulatare i commenti presenti in ciascuna classe del progetto.
-
 Esecuzione: per eseguire Monopoly è necessario eseguire la classe 'Monopoly.java' presente in /monopoly/src/main/java/com.monopoly. Per fare ciò è necessario possedere il Java Development Kit (JDK) o il Java Runtime Environment (JRE) installato sul proprio sistema.
 
 
