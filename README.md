@@ -55,7 +55,7 @@ Durante questa fase non è presente alcun timer ed è richiesto che il giocatore
 
 <h2>Info</h2>
 
-Modalità in finestra: è possibile giocare in finestra semplicemente spostando l'applicazione di Monopoly. Questa azione è irreversibile.
+Modalità in finestra: è possibile giocare in finestra semplicemente spostando l'applicazione di Monopoly. Quest'azione è irreversibile.
 
 Esecuzione: per eseguire Monopoly è necessario eseguire la classe 'Monopoly.java' presente in /monopoly/src/main/java/com.monopoly. Per fare ciò è necessario possedere il Java Development Kit (JDK) o il Java Runtime Environment (JRE) installato sul proprio sistema.
 
